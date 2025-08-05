@@ -43,8 +43,8 @@
 
 ### 📫 Let's Connect
 
-- GitHub: [@shubhamgaur](https://github.com/shubhamgaur)
-- LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/YOUR-LINK)
-- Email: `your@email.com`
+- GitHub: [@shubhamgaur](https://github.com/sxubxam)
+- LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/shubhxm-gaur)
+- Email: `gaurshubham886@email.com`
 
 ---
