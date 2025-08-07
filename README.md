@@ -29,7 +29,7 @@
 - 📊 **Minimal Analytics Server** – Lightweight, privacy-friendly analytics backend for personal projects
 - 🧰 **Dev Scripts Toolbox** – CLI toolkit to speed up everyday development tasks
 
-> 🔗 [Check out my repositories »](https://github.com/shubhamgaur)
+> 🔗 [Check out my repositories »](https://github.com/sxubxam)
 
 ---
 
@@ -44,7 +44,7 @@
 ### 📫 Let's Connect
 
 - GitHub: [@shubhamgaur](https://github.com/sxubxam)
-- LinkedIn: [linkedin.com/in/YOUR-LINK](https://linkedin.com/in/shubhxm-gaur)
+- LinkedIn: [linkedin.com/in/shubhxmgaur](https://linkedin.com/in/shubhxm-gaur)
 - Email: `gaurshubham886@email.com`
 
 ---
